@@ -1,0 +1,4 @@
+Name : Lixin Josh A
+CGPA : 8.5
+Goal : Data Engineer
+Skills : Python,SQL
